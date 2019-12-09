@@ -3,7 +3,7 @@ This folder contains the code for single domain recommendation system which in o
 
 
 ### File structure
-- recommendation.ipynb - contains notebook that has the implementation for the recommendation system
+- movie_recommendation.ipynb - contains notebook that has the implementation for the recommendation system
 
 
 ### Data sources
