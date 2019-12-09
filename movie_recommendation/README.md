@@ -1,8 +1,6 @@
 # Single domain - movie to movie recommendation
 This folder contains the code for single domain recommendation system which in our case was movie to movie.
 
-### Source repo
-https://github.com/preranashekhar/cross-domain-recommender
 
 ### File structure
 - recommendation.ipynb - contains notebook that has the implementation for the recommendation system
